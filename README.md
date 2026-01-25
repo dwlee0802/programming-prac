@@ -1,2 +1,2 @@
-Solving programming problems in C++ for practice.
-Recorded stuff I learned & other thoughts in notes.md for each problem
+- Solving programming problems in C++ for practice.
+- Recorded stuff I learned & other thoughts in notes.md for each problem

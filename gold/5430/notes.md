@@ -12,3 +12,5 @@ current_result += ",";
 current_result.append(nums[i]);
 
 Nice way to put commas instead of removing at the end
+
+Took about 3 hrs.
